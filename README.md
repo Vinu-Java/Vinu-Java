@@ -45,6 +45,7 @@
   --- 
 
   [![Github Streak](https://github-readme-activity-graph.vercel.app/graph?username=Vinu-AD&bg_color=000000&color=ffffff&line=27dd5e&point=9e8f8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![Profile views](https://komarev.com/ghpvc/?username=Vinu-AD)
 
   ---
   ⭐️ *“The best way to predict the future is to create it!”*  
