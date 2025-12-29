@@ -15,7 +15,7 @@
 - Interested in Java Full Stack Development
 - Completed Java Full Stack Development training at Uniq Technologies - Chennai
 - I'm looking for help with placement in frontend/backend/fullstack
-- Check out my [GitHub projects]([https://github.com/Vinu-Java](https://github.com/Vinu-Java?tab=repositories)), including UI designs, interactive web pages, and problem-solving scripts
+- Check out my [GitHub projects](https://github.com/Vinu-Java?tab=repositories), including UI designs, interactive web pages, and problem-solving scripts
 - Quick learner and problem solver
 - Proficient in touch typing for efficient coding
 
