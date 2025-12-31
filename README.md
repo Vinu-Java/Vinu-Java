@@ -1,6 +1,6 @@
 <div align= "center">
   <h1>Hi👋, I'm Vinu</h1>
-  <h6>Aspiring Java Full Stack Developer</h6>
+  <h6>Aspiring Java/Full-Stack Developer</h6>
   
   [![Email Me 📧](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinu882368@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinu-vinu/)
@@ -12,7 +12,7 @@
 --- 
 
 ## 👨‍🎓 About Me
-- Interested in Java Full Stack Development
+- Interested in Java/Full-Stack Development
 - Completed Java Full Stack Development training at Uniq Technologies - Chennai
 - I'm looking for help with placement in frontend/backend/fullstack
 - Check out my [GitHub projects](https://github.com/Vinu-Java?tab=repositories), including UI designs, interactive web pages, and problem-solving scripts
